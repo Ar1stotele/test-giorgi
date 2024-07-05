@@ -1,1 +1,1 @@
-ÿþ
+npx --no-install commitlint --edit "$1"
